@@ -10,4 +10,5 @@ Process :
 - I also drew animation by html tags and added animation using javascript.
 
 Reflection/Evaluation :
-- For future improvement, I can make it more responsive.
+- For future improvement, I can make it more responsive and add more past personal works.
+- I can also add more detail images for the projects.
